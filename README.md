@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Yash-jakkula/Yash-jakkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
