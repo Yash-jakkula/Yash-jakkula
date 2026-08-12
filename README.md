@@ -14,6 +14,7 @@ Not just using tools —
 but understanding how things work underneath.
 
 Currently exploring:
+- Building my own AI assitance.
 - 🧠 Artificial Intelligence from scratch (not just APIs)
 - ⚙️ Backend systems & performance optimization
 - 🔗 Scalable architectures & real-world workflows
